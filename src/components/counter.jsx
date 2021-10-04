@@ -36,7 +36,6 @@ const Counter = () => {
         className="btn btn-secondary btn-sm m-2">
         Decrement
       </button>
-
     </>
   )
 }
